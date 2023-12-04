@@ -5,10 +5,10 @@
     "base_path": "/CHI2024",
     "trailing_slash": false,
     "favicon": "/CHI2024/images/literacy-icon.jpg",
-    "logo": "/CHI2024/images/literacy-icon.jpg",
+    "logo": "/CHI2024/images/authors/literacy-icon.png",
     "logo_width": "100",
     "logo_height": "100",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Literacy Workshop"
   },
 
   "settings": {

@@ -2,7 +2,7 @@
 
 import { getSinglePage } from "@lib/contentParser.astro";
 const authors = (await getSinglePage("authors")).sort((a,b)=>a.data.title.split(' ')[1].localeCompare(b.data.title.split(' ')[1]));
-
+const coauthors = (await getSinglePage("coauthors")).sort((a,b)=>a.data.title.split(' ')[1].localeCompare(b.data.title.split(' ')[1]));
 
 ---
 
@@ -36,5 +36,24 @@ const authors = (await getSinglePage("authors")).sort((a,b)=>a.data.title.split(
         })
       }
       </div>
-    </div>
+          <h2>Co-Organizers</h2>
+          <div style={{
+            margin: "20px",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+          }}}
+          }}>
+            {
+              coauthors.map((author)=>{
+                return <div>
+                <p>{author.data.title} - {author.data.description}</p>
+                </div>
+              })
+            }
+          </div>
+
+
+
+      </div>
 
