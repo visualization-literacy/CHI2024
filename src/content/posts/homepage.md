@@ -2,7 +2,7 @@
 title: "Welcome "
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/CHI2024/images/posts/teaser.png"
+image: /CHI2024/images/posts/teaser.png
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: []
