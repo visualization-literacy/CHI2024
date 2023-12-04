@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Workshop: Toward a More Comprehensive Understanding of Visualization Literacy @CHI24",
+    "base_url": "https://visualization-literacy.github.io",
+    "base_path": "/CHI2024",
+    "trailing_slash": false,
+    "favicon": "/CHI2024/images/literacy-icon.jpg",
+    "logo": "/CHI2024/images/literacy-icon.jpg",
+    "logo_width": "100",
+    "logo_height": "100",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Bookworm Light Astro Blog Template"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Toward a More Comprehensive Understanding of Visualization Literacy © 2024"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "info@bookworm.org",
+    "phone": "+800 567 1234"
+  }
+}

@@ -1,0 +1,40 @@
+---
+
+import { getSinglePage } from "@lib/contentParser.astro";
+const authors = (await getSinglePage("authors")).sort((a,b)=>a.data.title.split(' ')[1].localeCompare(b.data.title.split(' ')[1]));
+
+
+---
+
+
+    <div class="container">
+      <h2>Organizers</h2>
+      <div style={{
+        display: "flex",
+        flexWrap: "wrap",
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+      }}}>
+      {
+        authors.map((author)=>{
+          return <div style={{
+            margin: "50px",
+            alignItems: "center",
+            textAlign: "center",
+          }}}><img src={author.data.image} alt="avatar" style={{
+            borderRadius: "50%",
+            width: "100px",
+            height: "100px",
+            margin: "0 auto",
+            overflow: "hidden"
+          }}}/>
+            <a href={author.data.social.homepage}><p>{author.data.title}</p></a>
+            <p>{author.data.description}</p>
+
+          </div>
+        })
+      }
+      </div>
+    </div>
+
