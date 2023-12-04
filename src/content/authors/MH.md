@@ -1,6 +1,6 @@
 ---
 title: Maryam Hedayati
-image: /CHI2024/images/authors/diablo.jpg
+image: /CHI2024/images/authors/maryam.jpg
 description: Northwestern University
 social:
   facebook: https://www.facebook.com/
