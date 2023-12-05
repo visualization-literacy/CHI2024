@@ -27,18 +27,30 @@ Researchers have proposed many definitions of visualization literacy, targeting 
 
 ## Schedule
 
+TBD
 
-| Time       |             Activity              |                Note |
-|------------|:---------------------------------:|--------------------:|
-| 9:00-9:30  |     Welcome and Introductions     |       all attendees |
-| 9:30-11:00 |  Thematic Panels and Discussions  |                     |
-| 11:00-12:00| Group Activity - Affinity mapping |                     |
-| 12:00-1:00 |            Lunch Break            |                     |
-| 1:00-2:00  |  Thematic Panels and Discussions  |                     |
-| 2:00-3:30  |         Group Activity - Brainstorm and share         |                     |
-| 3:30-4:00  |               Break               |                     |
-| 4:00-5:00  |     Group Activity - Revisit themes and draft research agendas    |   written artifacts                  |
-| 5:00-5:30  |       Closing, reflection, and discussion of next steps       |                     |
+[//]: # ()
+[//]: # (| Time       |             Activity              |                Note |)
+
+[//]: # (|------------|:---------------------------------:|--------------------:|)
+
+[//]: # (| 9:00-9:30  |     Welcome and Introductions     |       all attendees |)
+
+[//]: # (| 9:30-11:00 |  Thematic Panels and Discussions  |                     |)
+
+[//]: # (| 11:00-12:00| Group Activity - Affinity mapping |                     |)
+
+[//]: # (| 12:00-1:00 |            Lunch Break            |                     |)
+
+[//]: # (| 1:00-2:00  |  Thematic Panels and Discussions  |                     |)
+
+[//]: # (| 2:00-3:30  |         Group Activity - Brainstorm and share         |                     |)
+
+[//]: # (| 3:30-4:00  |               Break               |                     |)
+
+[//]: # (| 4:00-5:00  |     Group Activity - Revisit themes and draft research agendas    |   written artifacts                  |)
+
+[//]: # (| 5:00-5:30  |       Closing, reflection, and discussion of next steps       |                     |)
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the
