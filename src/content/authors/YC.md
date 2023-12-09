@@ -1,6 +1,6 @@
 ---
 title: Yuan Cui
-image: /CHI2024/images/authors/diablo.jpg
+image: /CHI2024/images/authors/cui.png
 description: Northwestern University
 social:
   facebook: https://www.facebook.com/
