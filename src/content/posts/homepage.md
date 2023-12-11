@@ -78,7 +78,7 @@ Organizers of the CHI24 Workshop on Visualization Literacy
 
 ## Important Dates
 - **Submission Deadline:** February 22, 2024
-- **Notification:**: Mid March, 2024
+- **Notification:** Mid March, 2024
 - **Submission of Camera-ready version:** TBD
 
 
