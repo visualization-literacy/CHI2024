@@ -9,9 +9,9 @@ tags: []
 draft: false
 ---
 
-- **When:**
+- **When:** TBD
 - **Where:** Hawaiʻi Convention Center on the island of Oʻahu, Hawaiʻi, USA
-- **Contact:** ???@???.com
+- **Contact:** visualizationliteracy[at]gmail.com
 
 
 
