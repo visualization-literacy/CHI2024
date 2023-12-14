@@ -21,11 +21,10 @@ draft: false
 By continuing critical discussions with diverse perspectives from the CHI community, we can deepen investigations of visualization literacy through multiple lenses, such as measurement, interventions, and pedagogy. Our specific aims are:
 
 - Serve as a platform for researchers, teachers, and students to **share experiences of measuring visualization literacy** skills, practices, and dispositions in classrooms, **identify challenges** in quantification, and **brainstorm** ways to improve measurement in practice.
-- Develop and prototype intervention ideas during group activities.
-- Surface teachers' and researchers' existing knowledge to reassess current teaching practices, identify areas for improvement that align with visualization literacy, and brainstorm classroom instructional strategies targeting learners at different stages.
-- Redefine visualization literacy as informed by visualization usage in everyday life.
-  Develop more concrete research agendas with existing and new collaborations targeting questions including:
-- Develop more concrete research agendas with existing and new collaborations targeting questions including:
+- **Develop and prototype** intervention ideas during group activities.
+- Surface teachers' and researchers' existing knowledge to **reassess current teaching practices**, **identify areas for improvement** that align with visualization literacy, and **brainstorm classroom instructional strategies** targeting learners at different stages.
+- **Redefine visualization literacy** as informed by visualization usage in everyday life.
+- Develop more **concrete research agendas** with existing and new collaborations targeting questions including:
   - How can we more effectively define and quantify visualization literacy?
   - How can we design and develop interventions that reach a broader audience?
   - How can we improve visualization pedagogy, both in terms of what skills to teach and how to teach them?
