@@ -41,7 +41,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth [AoE](https://time.is
 ## Call for Participation
 **Please use [this](https://forms.gle/URKJaYTLZbwEGRSZA) form to submit your work to the CHI 2024 Workshop: Toward a More Comprehensive Understanding of Visualization Literacy.**
 
-Submissions should be 2-8 pages (excluding references), in [single-column ACM Master Article Submission Template]( https://chi2024.acm.org/submission-guides/chi-publication-formats/ ), comply with CHI 2024 paper accessibility guidelines, and do not need to be anonymized.
+Submissions should be 2-8 pages (excluding references), in [single-column ACM Master Article Submission Template]( https://chi2024.acm.org/submission-guides/chi-publication-formats/ ), comply with [CHI 2024 paper accessibility guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/), and do not need to be anonymized.
 
 We welcome submissions targeting questions including, but not limited to:
 - What is "visualization literacy'"?
