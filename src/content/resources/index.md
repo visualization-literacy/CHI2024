@@ -4,9 +4,9 @@ meta_title: "resources"
 draft: false
 
 ---
-- Paper Submission Link: https://forms.gle/URKJaYTLZbwEGRSZA
+- Paper submission link: https://forms.gle/URKJaYTLZbwEGRSZA
 - Single-column ACM Master Article Submission Template: https://chi2024.acm.org/submission-guides/chi-publication-formats/ 
-- Accessibility Guidelines: https://sigchi.org/resources/guides-for-authors/accessibility/
+- Accessibility guidelines: https://sigchi.org/resources/guides-for-authors/accessibility/
 
 [//]: # (### Articles)
 
