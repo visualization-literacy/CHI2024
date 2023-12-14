@@ -16,10 +16,11 @@ draft: false
 [//]: # (- **Contact:** visualizationliteracy[at]gmail.com)
 
 
-This workshop aims to facilitate and deepen critical discussions about how to define, study, and improve visualization literacy. 
+## Introduction
+**This workshop aims to facilitate and deepen critical discussions about how to define, study, and improve visualization literacy.** 
 By continuing critical discussions with diverse perspectives from the CHI community, we can deepen investigations of visualization literacy through multiple lenses, such as measurement, interventions, and pedagogy. Our specific aims are:
 
-- Serve as a platform for researchers, teachers, and students to share experiences of measuring visualization literacy skills, practices, and dispositions in classrooms, identify challenges in quantification, and brainstorm ways to improve measurement in practice.
+- Serve as a platform for researchers, teachers, and students to **share experiences of measuring visualization literacy** skills, practices, and dispositions in classrooms, **identify challenges** in quantification, and **brainstorm** ways to improve measurement in practice.
 - Develop and prototype intervention ideas during group activities.
 - Surface teachers' and researchers' existing knowledge to reassess current teaching practices, identify areas for improvement that align with visualization literacy, and brainstorm classroom instructional strategies targeting learners at different stages.
 - Redefine visualization literacy as informed by visualization usage in everyday life.
