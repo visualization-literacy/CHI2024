@@ -6,5 +6,5 @@ social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/
   instagram: https://www.instagram.com/
-  homepage: https://www.cc.com/
+  homepage: https://visualization-literacy.github.io/CHI2024
 ---

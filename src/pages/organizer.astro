@@ -22,14 +22,15 @@ const coauthors = (await getSinglePage("coauthors")).sort((a,b)=>a.data.title.sp
             margin: "50px",
             alignItems: "center",
             textAlign: "center",
-          }}}><img src={author.data.image} alt="avatar" style={{
+          }}}>
+            <img src={author.data.image} alt="avatar" style={{
             borderRadius: "50%",
             width: "100px",
             height: "100px",
             margin: "0 auto",
             overflow: "hidden"
           }}}/>
-            <a href={author.data.social.homepage}><p>{author.data.title}</p></a>
+            <a target="_blank" href={author.data.social.homepage}><p>{author.data.title}</p></a>
             <p>{author.data.description}</p>
 
           </div>
@@ -38,22 +39,22 @@ const coauthors = (await getSinglePage("coauthors")).sort((a,b)=>a.data.title.sp
       </div>
           <h2>Co-Organizers</h2>
           <div style={{
-            margin: "20px",
+            margin: "40px",
             justifyContent: "center",
             alignItems: "center",
-          }}
-          }}}
+            fontSize: 14
           }}>
             {
               coauthors.map((author)=>{
-                return <div>
-                <p>{author.data.title} - {author.data.description}</p>
+                return <div style={{
+                  margin: "20px",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  fontSize: 14
+                }}>
+                  <a target="_blank" href={author.data.social.homepage}><p>{author.data.title} - {author.data.description}</p></a>
                 </div>
               })
             }
           </div>
-
-
-
-      </div>
-
+    </div>

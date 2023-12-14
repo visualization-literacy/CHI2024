@@ -5,11 +5,14 @@ draft: false
 
 ---
 - Submission link: https://forms.gle/URKJaYTLZbwEGRSZA
-- Submission format: https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/ 
+- single-column ACM Master Article Submission Template: https://chi2024.acm.org/submission-guides/chi-publication-formats/ 
 
-### Articles
-Coming soon
+[//]: # (### Articles)
 
-### Datasets
-Coming soon
+[//]: # (Coming soon)
+
+[//]: # ()
+[//]: # (### Datasets)
+
+[//]: # (Coming soon)
 

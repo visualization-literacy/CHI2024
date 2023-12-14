@@ -21,11 +21,14 @@ const { title, description, meta_title, image, what_i_do } = entry.data;
 
         <div class="sm:col-7 md:col-8">
           <h1 set:html={markdownify(title)} class="h3 mb-8" />
-
           <div class="content">
-            <Content />
+
+              <Content />
+            <h3>Workshop Proposal</h3>
+            <iframe src="./files/proposal.pdf" width="800" height="700" />
+
           </div>
-          <a href="/contact" class="btn btn-primary text-white py-2">Get In Touch</a>
+          <!--<a href="/contact" class="btn btn-primary text-white py-2">Get In Touch</a>-->
         </div>
       </div>
     </div>
