@@ -1,7 +1,7 @@
 ---
-title: Bum Chul Kwon
+title: BC Kwon
 image: /CHI2024/images/authors/bckwon.png
-description: IBM
+description: IBM Research
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/
