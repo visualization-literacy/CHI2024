@@ -1,6 +1,6 @@
 ---
 title: Bum Chul Kwon
-image: /CHI2024/images/authors/diablo.jpg
+image: /CHI2024/images/authors/bckwon.png
 description: IBM
 social:
   facebook: https://www.facebook.com/
