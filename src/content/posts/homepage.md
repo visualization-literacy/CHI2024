@@ -32,7 +32,7 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 
 ## Important Dates
-- **Submission Deadline:** February 22, 2024
+- **Submission Deadline:** ~~February 22, 2024~~ (Extended to February 29, 2024)
 - **Notification:** Mid March, 2024
 - **Submission of Camera-ready version:** TBD
 
@@ -51,7 +51,7 @@ We welcome submissions targeting questions including, but not limited to:
 
 **Position papers are strongly encouraged.** We aim for a workshop with lively discussion to help us move the field forward. Thus, we also accept **early stage or in-progress work**, which might benefit from discussion and feedback. We are less interested in finished work unless you feel it would benefit from (and contribute to) broader discussion. If you are uncertain if your work would fit, please reach out! You can reach us via email: visualizationliteracy[at]gmail.com
 
-**Submissions are due by February 22, 2024 (AoE)**, notification of results will be by the middle of March (more details to come once we've received your submission), and accepted papers will be published on the Open Science Framework (OSF) open-access repository and on our workshop's [website](https://visualization-literacy.github.io/CHI2024/resources/).
+**Submissions are due by February 29, 2024 (AoE)**, notification of results will be by the middle of March (more details to come once we've received your submission), and accepted papers will be published on the Open Science Framework (OSF) open-access repository and on our workshop's [website](https://visualization-literacy.github.io/CHI2024/resources/).
 
 At least one author of each accepted submission must attend the in-person workshop and register for the workshop and for at least one day of the conference. Outputs from the workshop, including panel discussions, group activities, a summary workshop report, and accepted workshop submissions will be made available to the public on our workshop website, facilitating further discussions within and beyond the CHI community.
 
