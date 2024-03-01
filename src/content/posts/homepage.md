@@ -32,8 +32,9 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 
 ## Important Dates
-- **Submission Deadline:** ~~February 22, 2024~~ (Extended to February 29, 2024)
-- **Notification:** Mid March, 2024
+- **Submission Deadline:** ~~February 22, 2024~~ (Extended to March 07, 2024)
+- **Notification:** March 25, 2024
+- **Early Registration Deadline:** April 1, 2024
 - **Submission of Camera-ready version:** TBD
 
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth [AoE](https://time.is/Anywhere_on_Earth).
