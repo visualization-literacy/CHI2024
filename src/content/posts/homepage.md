@@ -31,11 +31,12 @@ By continuing critical discussions with diverse perspectives from the CHI commun
   - How can we draw from research findings in areas such as measurement, interventions, and pedagogy to support visualization literacy theory and practice?
 
 
-## Tentative Schedule (Full day on May 11, 2024)
+## Tentative Schedule
+#### (Full day on May 11, 2024)
 
-### (9:00AM - 9:15AM) Welcome and Introductions (all attendees)
+##### (9:00AM - 9:15AM) Welcome and Introductions (all attendees)
 
-### (9:15AM - 10:15AM) Defining and Measuring Visualization Literacy
+##### (9:15AM - 10:15AM) Defining and Measuring Visualization Literacy
 
 - **Maryam Hedayati, Ayse Hunt, and Matthew Kay**: From pixels to practices: Reconceptualizing visualization literacy
 - **Mackenzie Creamer, Lace Padilla, and Michelle Borkin**: Finding Gaps in Modern Visualization Literacy [PDF](https://osf.io/preprints/osf/jy9v2)
