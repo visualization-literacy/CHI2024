@@ -33,9 +33,10 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 ## Important Dates
 - **Submission Deadline:** ~~February 22, 2024~~ (Extended to March 07, 2024)
-- **Notification:** March 25, 2024
-- **Early Registration Deadline:** April 1, 2024
-- **Submission of Camera-ready version:** TBD
+- **Notification:** ~~March 25, 2024~~
+- **Early Registration Deadline:** ~~April 1, 2024~~
+- **Submission of Camera-ready version:** ~~April 15, 2024~~
+- **Workshop:** May 11, 2024
 
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth [AoE](https://time.is/Anywhere_on_Earth).
 
@@ -66,28 +67,38 @@ Organizers of the CHI24 Workshop on Visualization Literacy
 
 ## Schedule
 
-TBD
+#### (9:00AM - 9:15AM) Welcome and Introductions (all attendees)
 
-[//]: # ()
-[//]: # (| Time       |             Activity              |                Note |)
+#### (9:15AM - 10:15AM) Defining and Measuring Visualization Literacy
 
-[//]: # (|------------|:---------------------------------:|--------------------:|)
+- **Maryam Hedayati, Ayse Hunt, and Matthew Kay**: From pixels to practices: Reconceptualizing visualization literacy
+- **Mackenzie Creamer, Lace Padilla, and Michelle Borkin**: Finding Gaps in Modern Visualization Literacy [PDF](https://osf.io/preprints/osf/jy9v2)
+- **Adriana Arcia**: Need for a Multidimensional Framework of Visualization Competencies To Support Conceptual Clarity and Valid Measurement [PDF](https://osf.io/preprints/osf/syjmw)
+- **Jasmine T. Otto**: Visualization Notebooks are Paper Tools [PDF](https://osf.io/z2u3w)
 
-[//]: # (| 9:00-9:30  |     Welcome and Introductions     |       all attendees |)
+#### (10:15AM - 10:45AM) Break
 
-[//]: # (| 9:30-11:00 |  Thematic Panels and Discussions  |                     |)
+#### (10:45AM - 11:45AM) Defining and Teaching Visualization Literacy
 
-[//]: # (| 11:00-12:00| Group Activity - Affinity mapping |                     |)
+- **Anne-Flore Cabouat, Tingying He, Florent Cabric, Tobias Isenberg, and Petra Isenberg**: Position paper: A case to study the relationship between data visualization readability and visualization literacy [PDF](https://hal.science/hal-04523790)
+- **Sara Beschi, Silvia Golia, Angela Locoro and Davide Falessi**: Envisioning Visual Information Literacy: some reflection on conceptual and practical stances [PDF](https://osf.io/kbaes)
+- **Murtaza Ali And Adam Hyland**: Tinker or Transfer? A Tale of Two Techniques in Teaching Visualization [PDF](https://arxiv.org/abs/2404.10967)
 
-[//]: # (| 12:00-1:00 |            Lunch Break            |                     |)
+#### (11:45AM - 12:45PM) Broadening Audiences
 
-[//]: # (| 1:00-2:00  |  Thematic Panels and Discussions  |                     |)
+- **Danyang Fan, Gene S-H Kim, Olivia Tomassetti, Shloke N Patel, Sile O'Modhrain, Victor Lee, and Sean Follmer**: Tangible Stats: An Embodied and Multimodal Platform for Teaching Data and Statistics to Blind and Low Vision Students [PDF](https://osf.io/preprints/osf/t9fk2)
+- **Noëlle Rakotondravony, Henintsoa Andrianarivony, Taratra Raharison, and Lane Harrison**: Exploring Multilingual and Culturally-Adapted Visualization Literacy Assessments [PDF](https://osf.io/wp6ev)
+- **Rose K. Pozos, Lennard L. Schmidt, and Hilary Palmen**: Iconography for international users: Developing a systematic approach to ensuring comprehension of UI icons at scale [PDF](https://osf.io/cb643?view_only=9e756cdf93f3417988eb101bc9fdb483)
+- **Mandi Cai**: The Role of Data Journalists as Educators [PDF](https://osf.io/preprints/osf/apzs9)
 
-[//]: # (| 2:00-3:30  |         Group Activity - Brainstorm and share         |                     |)
+#### (12:45PM - 2:00PM) Lunch Break
 
-[//]: # (| 3:30-4:00  |               Break               |                     |)
+#### (2:00PM - 2:30PM) Group Activity - Affinity mapping
 
-[//]: # (| 4:00-5:00  |     Group Activity - Revisit themes and draft research agendas    |   written artifacts                  |)
+#### (2:30PM - 3:30PM) Subgroup Activity - Discuss and Share
 
-[//]: # (| 5:00-5:30  |       Closing, reflection, and discussion of next steps       |                     |)
+#### (3:30PM - 4:00PM) Break
 
+#### (4:00PM - 5:15PM) Group Activity - Revisit themes and draft research agendas (written artifacts)
+
+#### (5:15PM - 5:30PM) Closing, reflection, and discussion of next steps
