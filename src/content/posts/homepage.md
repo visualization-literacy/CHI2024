@@ -32,7 +32,7 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 
 ## Tentative Schedule
-#### (Full day on May 11, 2024)
+##### (Full day on May 11, 2024)
 
 ##### (9:00AM - 9:15AM) Welcome and Introductions (all attendees)
 
@@ -43,32 +43,32 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 - **Adriana Arcia**: Need for a Multidimensional Framework of Visualization Competencies To Support Conceptual Clarity and Valid Measurement [PDF](https://osf.io/preprints/osf/syjmw)
 - **Jasmine T. Otto**: Visualization Notebooks are Paper Tools [PDF](https://osf.io/z2u3w)
 
-#### (10:15AM - 10:45AM) Break
+##### (10:15AM - 10:45AM) Break
 
-#### (10:45AM - 11:45AM) Defining and Teaching Visualization Literacy
+##### (10:45AM - 11:45AM) Defining and Teaching Visualization Literacy
 
 - **Anne-Flore Cabouat, Tingying He, Florent Cabric, Tobias Isenberg, and Petra Isenberg**: Position paper: A case to study the relationship between data visualization readability and visualization literacy [PDF](https://hal.science/hal-04523790)
 - **Sara Beschi, Silvia Golia, Angela Locoro and Davide Falessi**: Envisioning Visual Information Literacy: some reflection on conceptual and practical stances [PDF](https://osf.io/kbaes)
 - **Murtaza Ali And Adam Hyland**: Tinker or Transfer? A Tale of Two Techniques in Teaching Visualization [PDF](https://arxiv.org/abs/2404.10967)
 
-#### (11:45AM - 12:45PM) Broadening Audiences
+##### (11:45AM - 12:45PM) Broadening Audiences
 
 - **Danyang Fan, Gene S-H Kim, Olivia Tomassetti, Shloke N Patel, Sile O'Modhrain, Victor Lee, and Sean Follmer**: Tangible Stats: An Embodied and Multimodal Platform for Teaching Data and Statistics to Blind and Low Vision Students [PDF](https://osf.io/preprints/osf/t9fk2)
 - **Noëlle Rakotondravony, Henintsoa Andrianarivony, Taratra Raharison, and Lane Harrison**: Exploring Multilingual and Culturally-Adapted Visualization Literacy Assessments [PDF](https://osf.io/wp6ev)
 - **Rose K. Pozos, Lennard L. Schmidt, and Hilary Palmen**: Iconography for international users: Developing a systematic approach to ensuring comprehension of UI icons at scale [PDF](https://osf.io/cb643?view_only=9e756cdf93f3417988eb101bc9fdb483)
 - **Mandi Cai**: The Role of Data Journalists as Educators [PDF](https://osf.io/preprints/osf/apzs9)
 
-#### (12:45PM - 2:00PM) Lunch Break
+##### (12:45PM - 2:00PM) Lunch Break
 
-#### (2:00PM - 2:30PM) Group Activity - Affinity mapping
+##### (2:00PM - 2:30PM) Group Activity - Affinity mapping
 
-#### (2:30PM - 3:30PM) Subgroup Activity - Discuss and Share
+##### (2:30PM - 3:30PM) Subgroup Activity - Discuss and Share
 
-#### (3:30PM - 4:00PM) Break
+##### (3:30PM - 4:00PM) Break
 
-#### (4:00PM - 5:15PM) Group Activity - Revisit themes and draft research agendas (written artifacts)
+##### (4:00PM - 5:15PM) Group Activity - Revisit themes and draft research agendas (written artifacts)
 
-#### (5:15PM - 5:30PM) Closing, reflection, and discussion of next steps
+##### (5:15PM - 5:30PM) Closing, reflection, and discussion of next steps
 
 
 ## Important Dates
