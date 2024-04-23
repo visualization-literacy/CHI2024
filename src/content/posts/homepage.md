@@ -49,7 +49,7 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 - **Anne-Flore Cabouat, Tingying He, Florent Cabric, Tobias Isenberg, and Petra Isenberg**: Position paper: A case to study the relationship between data visualization readability and visualization literacy [PDF](https://hal.science/hal-04523790)
 - **Sara Beschi, Silvia Golia, Angela Locoro and Davide Falessi**: Envisioning Visual Information Literacy: some reflection on conceptual and practical stances [PDF](https://osf.io/kbaes)
-- **Murtaza Ali And Adam Hyland**: Tinker or Transfer? A Tale of Two Techniques in Teaching Visualization [PDF](https://arxiv.org/abs/2404.10967)
+- **Murtaza Ali and Adam Hyland**: Tinker or Transfer? A Tale of Two Techniques in Teaching Visualization [PDF](https://arxiv.org/abs/2404.10967)
 
 ##### (11:45AM - 12:45PM) Broadening Audiences
 
