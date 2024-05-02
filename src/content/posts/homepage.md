@@ -31,7 +31,7 @@ By continuing critical discussions with diverse perspectives from the CHI commun
   - How can we draw from research findings in areas such as measurement, interventions, and pedagogy to support visualization literacy theory and practice?
 
 
-## Tentative Schedule
+## Schedule
 ##### (Full day on May 11, 2024)
 
 ##### (9:00AM - 9:15AM) Welcome and Introductions (all attendees)
