@@ -38,7 +38,7 @@ By continuing critical discussions with diverse perspectives from the CHI commun
 
 ##### (9:15AM - 10:15AM) Defining and Measuring Visualization Literacy
 
-- **Maryam Hedayati, Ayse Hunt, and Matthew Kay**: From pixels to practices: Reconceptualizing visualization literacy
+- **Maryam Hedayati, Ayse Hunt, and Matthew Kay**: From pixels to practices: Reconceptualizing visualization literacy [PDF](https://osf.io/6mq42)
 - **Mackenzie Creamer, Lace Padilla, and Michelle Borkin**: Finding Gaps in Modern Visualization Literacy [PDF](https://osf.io/preprints/osf/jy9v2)
 - **Adriana Arcia**: Need for a Multidimensional Framework of Visualization Competencies To Support Conceptual Clarity and Valid Measurement [PDF](https://osf.io/preprints/osf/syjmw)
 - **Jasmine T. Otto**: Visualization Notebooks are Paper Tools [PDF](https://osf.io/z2u3w)
